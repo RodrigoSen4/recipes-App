@@ -12,9 +12,8 @@
 <details>
   <summary><strong>Rodando Localmente</strong></summary><br />
 
-  > :information_source: Instale as dependências [**Caso existam**] com `npm install`
 
-   - **:Instale as dependencias:** com `npm install` e depois rode o `npm start` 
+   - **Instale as dependencias:** com `npm install` e depois rode o `npm start` 
   
   - **:warning: Atenção:** Não rode o comando npm audit fix!
 
@@ -36,6 +35,9 @@ foi utilizado React, React Router e ContextAPI para controlar o estado global da
 TheMealDB API: https://www.themealdb.com/
 
 The CockTailDB API: https://www.thecocktaildb.com/
+
+![demosntração do projeto](https://j.gifs.com/6WAGJL.gif)
+
 
 # 🛠 Ferramentas & Metodologias Utilizadas
 
