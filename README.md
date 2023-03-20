@@ -36,7 +36,9 @@ TheMealDB API: https://www.themealdb.com/
 
 The CockTailDB API: https://www.thecocktaildb.com/
 
-![demosntração do projeto](https://j.gifs.com/6WAGJL.gif)
+  <p align="center">
+    <img src="./src/images/demo.gif" alt="git Demonstração"  width="1000"/>
+  </p>
 
 
 # 🛠 Ferramentas & Metodologias Utilizadas
